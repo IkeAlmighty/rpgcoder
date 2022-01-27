@@ -52,7 +52,7 @@ All other API routes take an auth token as an argument.
 
     /auth/token
     /auth/refresh
-    /auth/login
+    /auth/signup
 
     /walk
     /swing
