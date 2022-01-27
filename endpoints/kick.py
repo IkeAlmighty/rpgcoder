@@ -1,0 +1,1 @@
+def kick(request): pass

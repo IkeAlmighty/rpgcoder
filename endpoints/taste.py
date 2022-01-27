@@ -1,0 +1,1 @@
+def taste(request): pass

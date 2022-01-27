@@ -1,0 +1,1 @@
+def walk(request): pass
