@@ -1,1 +1,1 @@
-def speak(request): pass
+def touch(request): pass
